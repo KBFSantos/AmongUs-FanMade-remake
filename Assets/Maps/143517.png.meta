@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 0ce3abc15ed34bf45bec4915cfab12e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3534231097098410270
+    second: CameraRoom
+  - first:
+      213: 1761033851251865742
+    second: CameraPC
+  - first:
+      213: 7171090534057624191
+    second: Server_CameraRoom
+  - first:
+      213: 2553690113605281806
+    second: CameraPC_Chair
+  - first:
+      213: 5405512639507329584
+    second: CrobreLine
+  - first:
+      213: -7158190418509988860
+    second: EletricPainel_CameraRoom
+  - first:
+      213: -8556615344117609854
+    second: Server_CameraRoom_14
+  - first:
+      213: 7201114997871051708
+    second: Server_CameraRoom_15
+  - first:
+      213: 2548080717798158442
+    second: Server_CameraRoom_16
+  - first:
+      213: -726139783359962569
+    second: Server_CameraRoom_17
+  - first:
+      213: 3260973252706016389
+    second: Server_CameraRoom_18
+  - first:
+      213: 1835519623064124247
+    second: Server_CameraRoom_19
+  - first:
+      213: 5822586040691024198
+    second: Server_CameraRoom_20
+  - first:
+      213: -501512302646218636
+    second: Server_CameraRoom_21
+  - first:
+      213: -5658592837675287772
+    second: Server_CameraRoom_22
+  - first:
+      213: -3263625807758887853
+    second: Server_CameraRoom_23
+  - first:
+      213: -7437996109364676825
+    second: Server_CameraRoom_24
+  - first:
+      213: 3592077410681109426
+    second: Server_CameraRoom_25
+  - first:
+      213: -2865163116850126526
+    second: Server_CameraRoom_26
+  - first:
+      213: 6330060179423609292
+    second: Server_CameraRoom_27
+  - first:
+      213: -3380106074824492996
+    second: Server_CameraRoom_28
+  - first:
+      213: 4134030990674108791
+    second: Server_CameraRoom_29
+  - first:
+      213: 1019030713694139967
+    second: Server_CameraRoom_30
+  - first:
+      213: -7859670652666176979
+    second: Server_CameraRoom_31
+  - first:
+      213: 8740830333237219414
+    second: Server_CameraRoom_32
+  - first:
+      213: 5403400412728836554
+    second: Server_CameraRoom_33
+  - first:
+      213: 6345720078660712643
+    second: Server_CameraRoom_34
+  - first:
+      213: 8664972481305541886
+    second: Server_CameraRoom_35
+  - first:
+      213: 3940086074607074823
+    second: Server_CameraRoom_36
+  - first:
+      213: 5347478578136523749
+    second: Server_CameraRoom_37
+  - first:
+      213: 640911481507648287
+    second: Server_CameraRoom_38
+  - first:
+      213: -7845366565158491045
+    second: Server_CameraRoom_39
+  - first:
+      213: 6447719491718506858
+    second: Server_CameraRoom_40
+  - first:
+      213: -1269364893044286812
+    second: Server_CameraRoom_41
+  - first:
+      213: 1762850046181568104
+    second: Server_CameraRoom_42
+  - first:
+      213: 5349626490490023942
+    second: Server_CameraRoom_43
+  - first:
+      213: 6149762893444192805
+    second: Server_CameraRoom_44
+  - first:
+      213: 1393564014582675053
+    second: Server_CameraRoom_45
+  - first:
+      213: -8748245804230652103
+    second: Server_CameraRoom_46
+  - first:
+      213: 4583976723330341731
+    second: Server_CameraRoom_47
+  - first:
+      213: 676139266656351383
+    second: Server_CameraRoom_50
+  - first:
+      213: 5776753469295564811
+    second: Server_CameraRoom_48
+  - first:
+      213: 2382724561500204282
+    second: Server_CameraRoom_49
+  - first:
+      213: 4312786736406170618
+    second: Server_CameraRoom_51
+  - first:
+      213: -4538029194736902611
+    second: Server_CameraRoom_52
+  - first:
+      213: 3616436003550852091
+    second: Server_CameraRoom_53
+  - first:
+      213: -1102983314933031804
+    second: Server_CameraRoom_54
+  - first:
+      213: -3671386492447243391
+    second: Server_CameraRoom_55
+  - first:
+      213: 3613246830174811149
+    second: Server_CameraRoom_56
+  - first:
+      213: 2095248018761760766
+    second: Server_CameraRoom_57
+  - first:
+      213: 2462541745121077539
+    second: Server_CameraRoom_58
+  - first:
+      213: -2983128188220643347
+    second: Server_CameraRoom_59
+  - first:
+      213: 2701657415145093136
+    second: Server_CameraRoom_60
+  - first:
+      213: 2851777869372112057
+    second: Server_CameraRoom_61
+  - first:
+      213: -3318694888127476922
+    second: Server_CameraRoom_62
+  - first:
+      213: -2705647662239384619
+    second: Server_CameraRoom_63
+  - first:
+      213: 6670363230697339595
+    second: Server_CameraRoom_64
+  - first:
+      213: 4134585993176829248
+    second: Server_CameraRoom_65
+  - first:
+      213: 166432881743283668
+    second: Server_CameraRoom_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CameraRoom
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 591
+        width: 260
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66f47da83e3fec0800000000000000
+      internalID: -3534231097098410270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraPC
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 506
+        width: 147
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883e4515f2707810800000000000000
+      internalID: 1761033851251865742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72cbaeb8d4d48360800000000000000
+      internalID: 7171090534057624191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CameraPC_Chair
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 529
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aed7d0a7807320800000000000000
+      internalID: 2553690113605281806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrobreLine
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 547
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032f7b22b1d340b40800000000000000
+      internalID: 5405512639507329584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EletricPainel_CameraRoom
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 537
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7b167dbff8ac90800000000000000
+      internalID: -7158190418509988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f65d5c1dab025b0800000000000000
+      internalID: -5395106943459823751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_03
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96edb8993f8c6630800000000000000
+      internalID: 3921666853071349402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_04
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ce607f0d3e2a40800000000000000
+      internalID: 5345276944255467923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_05
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4700012eec3883bd0800000000000000
+      internalID: -2650223456128335756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_06
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09420da86335cc00800000000000000
+      internalID: 920198223539357964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_07
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd82db1e8f4a7bb0800000000000000
+      internalID: -4937546569687593488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_08
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657e06df162086ca0800000000000000
+      internalID: -6023561881721968810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_09
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6332cd144f4c280800000000000000
+      internalID: -9023819189640284485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87469b01abf1e7ee0800000000000000
+      internalID: -1261535961612196744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f361742d5bca80800000000000000
+      internalID: -8445554265100651791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc152ec60df81840800000000000000
+      internalID: 5195180375842036958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecfab7fb03654ff0800000000000000
+      internalID: -52526917592875799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_14
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a863eedabc04980800000000000000
+      internalID: -8556615344117609854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_15
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb387daffef7fe360800000000000000
+      internalID: 7201114997871051708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_16
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60b16b99e99c5320800000000000000
+      internalID: 2548080717798158442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 357
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ec8bd6bb3ce5f0800000000000000
+      internalID: -726139783359962569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c979d55ed414d20800000000000000
+      internalID: 3260973252706016389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_19
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bfef64f53197910800000000000000
+      internalID: 1835519623064124247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6416985972bfdc050800000000000000
+      internalID: 5822586040691024198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_21
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b846c7354a09f0800000000000000
+      internalID: -501512302646218636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7bcd6bc3a871b0800000000000000
+      internalID: -5658592837675287772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_23
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354fbb88e9545b2d0800000000000000
+      internalID: -3263625807758887853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_24
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b49c52fde6c890800000000000000
+      internalID: -7437996109364676825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3a559f5f99d130800000000000000
+      internalID: 3592077410681109426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241e8945355ec38d0800000000000000
+      internalID: -2865163116850126526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_27
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c361f134e8d750800000000000000
+      internalID: 6330060179423609292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_28
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3832fafe637711d0800000000000000
+      internalID: -3380106074824492996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771269178470f5930800000000000000
+      internalID: 4134030990674108791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_30
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b3f8f803542e00800000000000000
+      internalID: 1019030713694139967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_31
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a15480f27dce290800000000000000
+      internalID: -7859670652666176979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_32
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650509e80eaad4970800000000000000
+      internalID: 8740830333237219414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c6e30c0cbcfa40800000000000000
+      internalID: 5403400412728836554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_34
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 242
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b2ac5ac6801850800000000000000
+      internalID: 6345720078660712643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc70c0109a204870800000000000000
+      internalID: 8664972481305541886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efa6dc86ffda630800000000000000
+      internalID: 3940086074607074823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a6d54f6f063a40800000000000000
+      internalID: 5347478578136523749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_38
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f139bb3c899f4e800800000000000000
+      internalID: 640911481507648287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c600feca8af1390800000000000000
+      internalID: -7845366565158491045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_40
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a696e3b57b6ea7950800000000000000
+      internalID: 6447719491718506858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa5ebbea5f426ee0800000000000000
+      internalID: -1269364893044286812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eeeeae6c6e67810800000000000000
+      internalID: 1762850046181568104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6007da613f0bd3a40800000000000000
+      internalID: 5349626490490023942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_44
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9e9cc4c8585550800000000000000
+      internalID: 6149762893444192805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66b7fc761fe65310800000000000000
+      internalID: 1393564014582675053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_46
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc70f8accf79680800000000000000
+      internalID: -8748245804230652103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b93ccfa8e8d9f30800000000000000
+      internalID: 4583976723330341731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_50
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794beb7a411226900800000000000000
+      internalID: 676139266656351383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_48
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081e5c7ca62b2050800000000000000
+      internalID: 5776753469295564811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_49
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc61dd4d53211120800000000000000
+      internalID: 2382724561500204282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_51
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 127
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8187cfa81adb30800000000000000
+      internalID: 4312786736406170618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eda5bad7ea501c0800000000000000
+      internalID: -4538029194736902611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f4907269203230800000000000000
+      internalID: 3616436003550852091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_54
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cdb38d48a61b0f0800000000000000
+      internalID: -1102983314933031804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183c38cdf6d9c0dc0800000000000000
+      internalID: -3671386492447243391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04306629d4d42230800000000000000
+      internalID: 3613246830174811149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effb2a2d8f0d31d10800000000000000
+      internalID: 2095248018761760766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329238a8ba4bc2220800000000000000
+      internalID: 2462541745121077539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_59
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de767a5d7bcc996d0800000000000000
+      internalID: -2983128188220643347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_60
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018f586ea173e7520800000000000000
+      internalID: 2701657415145093136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcbe32ecdc839720800000000000000
+      internalID: 2851777869372112057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_62
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc14b1590a1f1d0800000000000000
+      internalID: -3318694888127476922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_63
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbfadc49cb937ad0800000000000000
+      internalID: -2705647662239384619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_64
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaba886404e19c50800000000000000
+      internalID: 6670363230697339595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_65
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d4c980e00016930800000000000000
+      internalID: 4134585993176829248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Server_CameraRoom_66
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 12
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c04bf2d94f4200800000000000000
+      internalID: 166432881743283668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
