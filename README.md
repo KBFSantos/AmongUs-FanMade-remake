@@ -10,3 +10,13 @@ This is a Remake of the game among us, which was created for study purposes, fee
 
 <img src="https://cdn.discordapp.com/attachments/764285531793915954/804546144155074591/unknown.png" width="400"> <img src="https://cdn.discordapp.com/attachments/764285531793915954/804564107973885982/unknown.png" width="400">
 
+## Include ##
+
+✅Camera system
+✅The Skeld Map (80% completed)
+✅Player Controller
+✅Tasks
+✅Lobby Map System
+❎Multiplayer System
+
+
