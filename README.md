@@ -12,11 +12,11 @@ This is a Remake of the game among us, which was created for study purposes, fee
 
 ## Include ##
 
-✅Camera system
-✅The Skeld Map (80% completed)
-✅Player Controller
-✅Tasks
-✅Lobby Map System
-❎Multiplayer System
+✅Camera system__
+✅The Skeld Map (80% completed)__
+✅Player Controller__
+✅Tasks__
+✅Lobby Map System__
+❎Multiplayer System__
 
 
