@@ -26,6 +26,8 @@ public class CameraSystem : MonoBehaviour
     {
         if (Ativo)
         {
+
+            botao.onClick.AddListener((UnityEngine.Events.UnityAction)this.OnClick);
             if (Input.GetKeyDown(KeyCode.E))
             {
                 Jogador.enabled = false;
@@ -40,6 +42,7 @@ public class CameraSystem : MonoBehaviour
 
         if (pressed)
         {
+            botao.onClick.AddListener((UnityEngine.Events.UnityAction)this.LeaveCameras);
             if (Input.GetKeyDown(KeyCode.Escape))
             {
                 DownloadUI.enabled = false;
@@ -49,6 +52,20 @@ public class CameraSystem : MonoBehaviour
             }
         }
 
+    }
+
+    public void OnClick()
+    {
+        Jogador.enabled = false;
+        DownloadUI.enabled = true;
+        pressed = true;
+    }
+
+    public void LeaveCameras()
+    {
+        DownloadUI.enabled = false;
+        Jogador.enabled = true;
+        pressed = false;
     }
 
 
@@ -70,8 +87,11 @@ public class CameraSystem : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             botao.gameObject.GetComponent<Image>().sprite = usesprite;
+            pressed = false;
             botao.interactable = false;    
             Ativo = false;
+            botao.onClick.AddListener((UnityEngine.Events.UnityAction)this.LeaveCameras);
+            botao.onClick.RemoveListener((UnityEngine.Events.UnityAction)this.OnClick);
 
         }
     }

@@ -25,15 +25,12 @@ public class DownloadMinigame : MonoBehaviour
 
     void Update()
     {
-        if (Active && IsCompleted == false)
+        if (Active && IsCompleted == false && !pressed)
         {
+            botao.onClick.AddListener((UnityEngine.Events.UnityAction) this.OnClick);
             if (Input.GetKeyDown(KeyCode.E))
             {
-                Jogador.enabled = false;
-                DownloadUI.enabled = true;
-                pressed = true;
-
-
+                interact();
 
             }
 
@@ -41,6 +38,7 @@ public class DownloadMinigame : MonoBehaviour
 
         if (pressed)
         {
+            botao.onClick.RemoveListener((UnityEngine.Events.UnityAction)this.OnClick);
             if (SliderUi.value < SliderUi.maxValue)
             {
                 SliderUi.value += Upload_Speed * Time.deltaTime;
@@ -60,6 +58,18 @@ public class DownloadMinigame : MonoBehaviour
 
     }
 
+    void interact()
+    {
+        botao.interactable = false;
+        Jogador.enabled = false;
+        DownloadUI.enabled = true;
+        pressed = true;
+    }
+
+    public void OnClick()
+    {
+        interact();
+    }
 
     private void OnTriggerStay2D(Collider2D collision)
     {
@@ -68,6 +78,7 @@ public class DownloadMinigame : MonoBehaviour
             Active = true;
             if(!IsCompleted)
             botao.interactable = true;
+            
         } 
     }
 
@@ -78,7 +89,7 @@ public class DownloadMinigame : MonoBehaviour
         {
             botao.interactable = false;
             Active = false;
-
+            botao.onClick.RemoveListener((UnityEngine.Events.UnityAction) this.OnClick);
         }
     }
 }
