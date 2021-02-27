@@ -16,6 +16,7 @@ This is a Remake of the game among us, which was created for study purposes, fee
 ✅The Skeld Map (80% completed) <br />
 ✅Player Controller <br />
 ✅Tasks <br />
+✅Main Menu <br />
 ✅Lobby Map System <br />
 ❎Multiplayer System <br />
 
