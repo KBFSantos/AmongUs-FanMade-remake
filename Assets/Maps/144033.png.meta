@@ -5,6 +5,12 @@ TextureImporter:
   - first:
       213: 4987840115398025677
     second: ReactorCorredor
+  - first:
+      213: 6469714112628470702
+    second: wall2
+  - first:
+      213: -4345330055537031856
+    second: black_line
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -110,7 +116,7 @@ TextureImporter:
         width: 369
         height: 636
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -118,6 +124,48 @@ TextureImporter:
       bones: []
       spriteID: dc12eb2882e583540800000000000000
       internalID: 4987840115398025677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 419
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea33d8915ba09c950800000000000000
+      internalID: 6469714112628470702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: black_line
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 442
+        width: 3
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05503e7465942b3c0800000000000000
+      internalID: -4345330055537031856
       vertices: []
       indices: 
       edges: []

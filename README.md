@@ -13,7 +13,7 @@ This is a Remake of the game among us, which was created for study purposes, fee
 ## Include ##
 
 ✅Camera system <br />
-✅The Skeld Map (80% completed) <br />
+✅The Skeld Map (90% completed) <br />
 ✅Player Controller <br />
 ✅Tasks <br />
 ✅Main Menu <br />
