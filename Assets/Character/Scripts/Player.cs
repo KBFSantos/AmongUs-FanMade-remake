@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -9,17 +10,28 @@ public class Player : MonoBehaviour
     public float Speed;
     private Rigidbody2D Playerrgidbody;
     private Vector3 movement;
+    public TypePlayer Playert = TypePlayer.Crew;
+    private GameObject PlayerHud;
+
+    public enum TypePlayer
+    {
+        Impostor,
+        Crew
+
+    }
 
 
     // Start is called before the first frame update
     void Start()
     {
+        PlayerHud = GameObject.FindWithTag("PlayerUI");
         Playerrgidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        PlayerHud.GetComponentInChildren<Slider>().value = ProgressTasks.GetProgress();
         movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"),0f);
         anim.SetFloat("Horizontal", movement.x);
         anim.SetFloat("Vertical", movement.y);

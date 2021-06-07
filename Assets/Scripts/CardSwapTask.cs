@@ -44,6 +44,7 @@ public class CardSwapTask : MonoBehaviour
                 IsCompleted = true;
                 pressed = false;
                 usebutton.interactable = false;
+                ProgressTasks.SetProgress(ProgressTasks.GetProgress() + 2.5f);
             }
 
 
@@ -66,7 +67,7 @@ public class CardSwapTask : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") && collision.GetComponent<Player>().Playert != Player.TypePlayer.Impostor)
         {
             Active = true;
             if (!IsCompleted)
