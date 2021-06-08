@@ -15,8 +15,14 @@ public class DownloadMinigame : MonoBehaviour
     private bool IsCompleted = false;
 
 
+    private void Awake()
+    {
+        ProgressTasks.TaskSetup();
+    }
+
     void Start()
     {
+
         playerent = GameObject.FindWithTag("Player").GetComponentInChildren<Player>();
         usebutton = GameObject.FindWithTag("PlayerUI").GetComponentInChildren<Button>();
         DownloadUI = GetComponentInChildren<Canvas>();
@@ -51,7 +57,7 @@ public class DownloadMinigame : MonoBehaviour
                 IsCompleted = true;
                 pressed = false;
                 usebutton.interactable = false;
-                ProgressTasks.SetProgress(ProgressTasks.GetProgress() + 2.5f);
+                ProgressTasks.SetProgress(ProgressTasks.GetProgress() + ProgressTasks.GetDistributedValue());
             }
 
 

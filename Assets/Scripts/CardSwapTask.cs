@@ -13,6 +13,10 @@ public class CardSwapTask : MonoBehaviour
     private bool pressed = false;
     private bool IsCompleted = false;
 
+    private void Awake()
+    {
+        ProgressTasks.TaskSetup();
+    }
 
     void Start()
     {
@@ -44,7 +48,7 @@ public class CardSwapTask : MonoBehaviour
                 IsCompleted = true;
                 pressed = false;
                 usebutton.interactable = false;
-                ProgressTasks.SetProgress(ProgressTasks.GetProgress() + 2.5f);
+                ProgressTasks.SetProgress(ProgressTasks.GetProgress() + ProgressTasks.GetDistributedValue());
             }
 
 

@@ -252,7 +252,7 @@ GameObject:
   - component: {fileID: 6987098850043966650}
   m_Layer: 0
   m_Name: Download_Minigame
-  m_TagString: Untagged
+  m_TagString: Task
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -309,7 +309,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 43826335
-  m_SortingLayer: 6
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_Sprite: {fileID: -7895794519631673280, guid: a05938c96ce167a4e9356bb9d56e7ac1,
     type: 3}

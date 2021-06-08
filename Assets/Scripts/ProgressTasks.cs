@@ -1,29 +1,38 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class ProgressTasks : MonoBehaviour
 {
-    const float Progress_Speed = 0.065f;
-    private static float progress = 0f;
-    static public ProgressTasks instance;
+    private static float MaxProgress = 0;
+    private static float Progress = 0f;
+    private static int TaskCount = 0;
 
-    void Awake()
-    { 
-        instance = this; 
+    public void Start()
+    {
+        MaxProgress = GameObject.FindWithTag("PlayerUI").GetComponentInChildren<Slider>().maxValue;
     }
 
     public static void SetProgress(float value)
     {
-        progress = value;
+        Progress = value;
 
     }
     public static float GetProgress()
      {
-        return progress;
+        return Progress;
      }
 
+    public static float GetDistributedValue()
+    {
+        return MaxProgress / TaskCount;
+    }
 
+    public static void TaskSetup()
+    {
+        ++TaskCount;
+    }
 
 
 
