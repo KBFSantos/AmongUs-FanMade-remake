@@ -8,10 +8,11 @@ public class Player : MonoBehaviour
     public Animator anim;
     public Camera PlayerCamera;
     public float Speed;
-    private Rigidbody2D Playerrgidbody;
+    private Rigidbody2D PlayerRgidbody;
     private Vector3 movement;
     public TypePlayer Playert = TypePlayer.Crew;
     private GameObject PlayerHud;
+    private bool isWalking = false;
 
     public enum TypePlayer
     {
@@ -25,17 +26,20 @@ public class Player : MonoBehaviour
     void Start()
     {
         PlayerHud = GameObject.FindWithTag("PlayerUI");
-        Playerrgidbody = GetComponent<Rigidbody2D>();
+        PlayerRgidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        PlayerHud.GetComponentInChildren<Slider>().value = ProgressTasks.GetProgress();
+        var ProgressSlider = PlayerHud.GetComponentInChildren<Slider>();
+        if (ProgressSlider != null)
+        {
+            ProgressSlider.value = ProgressTasks.GetProgress();
+        }
         movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"),0f);
-        anim.SetFloat("Horizontal", movement.x);
-        anim.SetFloat("Vertical", movement.y);
         anim.SetFloat("Speed", movement.magnitude);
+
 
         if (Input.GetAxis("Horizontal") < 0) {
             transform.localScale = new Vector3(-2.53772f, transform.localScale.y,transform.localScale.z);
@@ -51,7 +55,7 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Playerrgidbody.MovePosition(transform.position + movement * Speed * Time.fixedDeltaTime);
+        PlayerRgidbody.MovePosition(transform.position + movement * Speed * Time.fixedDeltaTime);
         PlayerCamera.transform.position = new Vector3(transform.position.x, transform.position.y, PlayerCamera.transform.position.z);
 
     }
