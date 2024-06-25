@@ -12,7 +12,6 @@ public class Player : MonoBehaviour
     private Vector3 movement;
     public TypePlayer Playert = TypePlayer.Crew;
     private GameObject PlayerHud;
-    private bool isWalking = false;
 
     public enum TypePlayer
     {
