@@ -5,12 +5,12 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    public Animator anim;
+    public Animator PlayerAnimator;
     public Camera PlayerCamera;
     public float Speed;
-    private Rigidbody2D PlayerRgidbody;
+    private Rigidbody2D PlayerRigidbody;
     private Vector3 movement;
-    public TypePlayer Playert = TypePlayer.Crew;
+    public TypePlayer Team = TypePlayer.Crew;
     private GameObject PlayerHud;
 
     public enum TypePlayer
@@ -25,7 +25,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         PlayerHud = GameObject.FindWithTag("PlayerUI");
-        PlayerRgidbody = GetComponent<Rigidbody2D>();
+        PlayerRigidbody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -37,7 +37,7 @@ public class Player : MonoBehaviour
             ProgressSlider.value = ProgressTasks.GetProgress();
         }
         movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"),0f);
-        anim.SetFloat("Speed", movement.magnitude);
+        PlayerAnimator.SetFloat("Speed", movement.magnitude);
 
 
         if (Input.GetAxis("Horizontal") < 0) {
@@ -54,7 +54,7 @@ public class Player : MonoBehaviour
 
     private void FixedUpdate()
     {
-        PlayerRgidbody.MovePosition(transform.position + movement * Speed * Time.fixedDeltaTime);
+        PlayerRigidbody.MovePosition(transform.position + movement * Speed * Time.fixedDeltaTime);
         PlayerCamera.transform.position = new Vector3(transform.position.x, transform.position.y, PlayerCamera.transform.position.z);
 
     }
